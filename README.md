@@ -215,9 +215,9 @@ This is the basic comand to explore a specific folder with id 0B_PHB7sHcRJMRlktO
     
    
 ## Author
-I am Lorenzo Persichetti and I work at [Revevol](https://www.revevol.com) helping customers in adopting cloud technologies.
-I personally developed this tool to face complex G Suite deployments in which you need to provision many domins to a single console and you want to be aware if a domain is already part of another console.
+I am Lorenzo Persichetti and I am passionate about cloud technologies.
+I personally developed this tool to face to fit my need of sorting out what is inside my Google Drive.
 
-I have used this tool many times and it proved to be a useful companion in the early stages of a G Suite deployment and that is why I am now sharing it as an open source tool.
+I have used this tool many times and it proved to be a useful companion .
 
 This is also my first contribution to the open source community, so any feedback is absolutely welcome.
